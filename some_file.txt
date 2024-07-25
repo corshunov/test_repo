@@ -2,3 +2,4 @@ old text 1
 old text 2
 new text 3
 old text 4
+new line 5
